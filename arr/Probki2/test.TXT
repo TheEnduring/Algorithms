@@ -1,0 +1,51 @@
+6
+4
+Probka1 7329410
+MojaProbka 95103
+TestTestTest 124134
+MojaProbka2 129517
+0
+4
+Probka1 7329410
+Probka1 95103
+Probka1 124134
+Probka1 129517
+0
+6
+Probka1 95103
+MojaProbka 95103
+TestTestTest 124134
+Probka3 95103
+Probka2 95103
+MojaProbka 129517
+0
+4
+Probka1 95103
+MojaProbka 95103
+Probka2 95103
+Probka1 95103
+0
+10
+Probka1 123
+MojaProbka 123
+Probka2 555
+Probka1 555
+Probka1 555
+Probka1 666
+Probka2 123
+Probka3 555
+MojaProbka 666
+MojaProbka 666
+1
+10
+Probka1 123
+MojaProbka 123
+Probka2 555
+Probka1 555
+Probka1 555
+Probka1 666
+Probka2 123
+Probka3 555
+MojaProbka 666
+MojaProbka 666
+0

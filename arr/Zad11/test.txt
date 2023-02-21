@@ -1,0 +1,9 @@
+6 2
+3 Adam Nowak
+1 Joanna Kowalska
+9 Grzegorz Wilk
+7 Marcin Lewandowski
+33 Katarzyna Szymanska
+22 Anna Skonczona
+3 2 Nowa Osoba
+0 1 Test Test
