@@ -5,10 +5,6 @@
 
 using namespace std;
 
-//nie wszystkie wezly sa polaczone, czyli moze byc taka sytuacja ze nie do wszystkich placowek mozemy sie dostac
-//wtedy nie bierzemy ich pod uwage, zajmujemy  sie tymi ktore sa powiazane z wezlem startowym, placowka moze na siebie wskazywac,
-//ale przy odpowiednim zaimplementowaniu kodu nie powinno to miec znaczenia bo wezel byl juz odwiedzony
-
 struct node
 {
     int dest;
