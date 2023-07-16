@@ -63,19 +63,19 @@ int main()
 
 
 
-    //deklaracja zmiennych
+    //variables declaration
     int t, n, begin;
     bool sortByValue;
     cin >> t;
 
 
-    //pętla - ilość grup do posortowania
+    //loop - amount of groups for sort
     for (int k=0; k<t; k++)
     {
         cin >> n;
         sample* samples = new sample[n];
 
-        //pętla - ilość próbek do posortowania w grupie
+        //loop - amount of samples for sort in groups
         for (int i=0; i<n; i++)
         {
             cin >> samples[i].descript;
@@ -83,10 +83,10 @@ int main()
         }
 
 
-        //względem których segmentów sortować
+        //which segments to refer to while sorting
         cin >> sortByValue;
 
-        //jeśli dla liczb
+        //if for values
         if(sortByValue)
         {
             selectionSortValue(samples, n, 0);
@@ -107,7 +107,7 @@ int main()
         }
 
 
-        //jeśli dla stringów
+        //if for strings
         else
         {
             selectionSortString(samples, n, 0);
@@ -128,7 +128,7 @@ int main()
         
 
 
-        //wynik
+        //result
         for (int i=0; i<n; i++)
         {
             cout << samples[i].descript << "-";
